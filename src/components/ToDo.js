@@ -19,4 +19,3 @@ function mapDispatchToProps(dispatch, ownProps){
     }
 }
 export default connect(null, mapDispatchToProps) (ToDo);
-
